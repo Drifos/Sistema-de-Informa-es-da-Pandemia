@@ -1,2 +1,2 @@
 # Sistema-de-Informa-es-da-Pandemia
-Sistema de Informações da Pandemia
+O sistema será utilizado para monitorar e informar sobre a pandemia de COVID-19. Permitirá o cadastro/gerenciamento de bairros, moradores e casos. O sistema também fornecerá um mapa de calor dos casos, notificações para moradores e estatísticas de vacinação. O acesso será protegido por login e senha, com diferentes níveis de permissão. Relatórios de casos e análises serão facilmente gerados pelo sistema.
